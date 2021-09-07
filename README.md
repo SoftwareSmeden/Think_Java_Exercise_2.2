@@ -1,1 +1,8 @@
-# Think_Java_Exercise_2.2
+# Think Java - Øvelse 2.2
+
+
+
+
+
+
+
